@@ -1,0 +1,90 @@
+.plate-img {
+  text-align: center;
+}
+.plate-img img {
+  width: 170px;
+}
+.no-pad {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.car-img {
+  position: relative;
+  text-align: center;
+}
+.car-img img {
+  width: 450px;
+}
+.car-img p {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  left: 0px;
+  text-align: center;
+}
+.final-valuation {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.final-valuation p {
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 0px;
+}
+.final-valuation h2 {
+  margin: 0px;
+  font-size: 66px;
+  color: #000;
+  font-family: nb;
+  color: #4a9d47;
+}
+.details-car {
+  position: relative;
+}
+.details-car p {
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 12px;
+  font-family: nm;
+  color: #000;
+}
+.details-car p span {
+  color: #8b8b8b;
+  position: absolute;
+  right: 0px;
+  top: 0%;
+  font-family: nr;
+  width: 150px;
+}
+.form-main {
+  margin-top: 50px;
+}
+.form-main p {
+  font-size: 12px;
+  text-align: center;
+  color: #8b8b8b;
+}
+.heading-main {
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 120px;
+  text-align: center;
+}
+.heading-main span {
+  font-size: 16px;
+  color: #4a9d47;
+  font-family: nm;
+  display: block;
+  margin-bottom: 5px;
+}
+.heading-main p {
+  color: #000;
+  font-size: 14px;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 0px;
+}
+.form-main-all {
+  margin-bottom: 100px;
+}
+/*# sourceMappingURL=finalValuation.css.map */

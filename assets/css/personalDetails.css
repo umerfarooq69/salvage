@@ -1,0 +1,57 @@
+.sec-form-all {
+  padding: 100px 0px;
+}
+.sec-form-all .heading-main {
+  position: relative;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.sec-form-all .heading-main h2 {
+  font-family: nb;
+  color: #000;
+}
+.sec-form-all .plate-img {
+  text-align: center;
+}
+.sec-form-all .plate-img img {
+  width: 170px;
+}
+.sec-form-all .car-img {
+  position: relative;
+  text-align: center;
+}
+.sec-form-all .car-img img {
+  width: 450px;
+}
+.sec-form-all .car-img p {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  left: 0px;
+  text-align: center;
+}
+.sec-form-all .form-main-all .grid-row-input {
+  display: grid;
+  grid-template-columns: 31.5% 31.5% 31.5%;
+  grid-gap: 2.7%;
+}
+.sec-form-all .form-main-all .grid-row-input .form-main .label-input label {
+  height: 30px;
+}
+.sec-form-all .form-main-all .country-code {
+  position: absolute;
+  left: 0px;
+  display: grid;
+  align-items: center;
+  top: 0px;
+  height: 100%;
+  width: 40px;
+  font-size: 14px;
+  justify-content: center;
+  background-color: #f7f7f7;
+  border-right: 1px solid #c8c8c8;
+}
+.sec-form-all .form-main-all .pad-left-number {
+  padding-left: 50px;
+}
+/*# sourceMappingURL=personalDetails.css.map */

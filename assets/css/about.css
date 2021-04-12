@@ -1,0 +1,26 @@
+.sec-about-content {
+  position: relative;
+  padding: 100px 0px;
+}
+.sec-about-content .about-content {
+  margin-top: 100px;
+}
+.sec-about-content .about-content h2 {
+  font-family: nb;
+  color: #000;
+  margin-bottom: 20px;
+}
+.sec-about-content .about-content p {
+  color: #818181;
+  font-size: 14px;
+}
+.sec-about-content .about-content p a {
+  color: #0160b8;
+}
+.sec-about-content .about-content p b {
+  color: #000;
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=about.css.map */

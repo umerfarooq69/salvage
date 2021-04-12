@@ -1,0 +1,21 @@
+.heading-top {
+  position: relative;
+}
+.heading-top p {
+  font-family: nb;
+  text-align: center;
+  margin: 40px auto;
+  font-size: 18px;
+  line-height: 20px;
+}
+section.sec-form-all {
+  margin: 70px 0px;
+}
+.extra-class {
+  position: relative;
+  text-transform: none !important;
+}
+.extra-for-pad {
+  padding-bottom: 20px !important;
+}
+/*# sourceMappingURL=contact copy.css.map */
